@@ -1,8 +1,12 @@
 <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot V2- Chatbot Messenger</h1>
 
+> New update: the Goat Bot admin dashboard is now included as part of Goat Bot V2.
+> See the dashboard documentation in [dashboard/readme.md](dashboard/readme.md).
 
 ## Introduction
+
+Goat Bot V2 is a powerful Messenger chatbot with enhanced features including a new admin dashboard for easy management. See the [Admin Dashboard](dashboard/readme.md) section for more details.
 
 ### 🆕 **Latest Updates - v2.0 Refactor**
 - **🔧 Refactor(goat)**: Major code cleanup and optimization
@@ -65,7 +69,18 @@ Tutorial has been uploaded on YouTube
 ## 🛠️ **How to create new commands**
 - See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
 
-## 💭 **Support**
+## �️ **Admin Dashboard**
+- This release now includes a full admin dashboard for Goat Bot.
+- Access live system metrics, file and command management, authentication state control, and log streaming.
+- **Key Features**:
+  - 📊 **Real-time System Metrics**: Monitor uptime, RAM, CPU, active threads, users, and system details.
+  - 🛠️ **Command & Event Management**: View and edit loaded modules directly in the dashboard.
+  - 📜 **Live Terminal Stream**: Real-time log capture for monitoring activities and errors.
+  - ⚙️ **Config & Auth Management**: Edit `config.json`, inject bot cookies, and control bot processes.
+- See the full dashboard documentation: [dashboard/readme.md](dashboard/readme.md)
+  </details>
+
+## �💭 **Support**
 If you have major coding issues with this bot, please join and ask for help.
 - https://discord.com/invite/DbyGwmkpVY (recommended)
 - https://www.facebook.com/groups/goatbot
